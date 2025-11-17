@@ -21,3 +21,19 @@ In the Diamond Model, the adversary is PRC sponsored APT groups. Their infrastru
 
 The report recommends several steps to reduce the risk of these attacks. Organizations should regularly update their routers and network devices to. They should check for unusual changes in router configurations and watch for unexpected network activity that show unauthorized access. Using strong authentication can also help prevent attackers from moving through systems. These actions can make it harder for APT actors to maintain long-term access and reduce the chance of similar threats.
 
+
+## Task 6: Reflection
+
+How does the Diamond Model help in understanding threat actors?
+
+Ans: The diamond model helps by dividing attack in four parts: Adversary (who is behind the attack), Capability (Malware or technique used), Infrastructure (tools, servers, domains used) and Victim (who is affected by attack). This makes it easier to understand how different elements are connected to each other. And also it helps to understand how attack works.
+
+What challenges did you face in identifying each vertex? 
+
+Ans: One challenge i face was to identify Capability and Infrastructure. It was so confusing 
+to identify each. However, after reading the summary for 4-5 times and spending almost 45 mins i was able to identify it.
+
+How could this model support proactive defense strategies?
+
+Ans: The Diamond Model can help organizations to improve their security by analyzing what tools attackers are using. It also gives idea about what techniques attacker are using so they can focus on it more deeply. Moreover, it also shows that which areas are highly at risk so organizations can prepare and stronger their security in that particular areas.
+
