@@ -1,4 +1,4 @@
-## Task 3: Diamond Model Elements
+## Task 3:  Diamond Model Vertex Extraction (markdown table) 
 
 | Vertex | Findings | Evidence |
 |----------------|----------|----------|
@@ -22,7 +22,7 @@ In the Diamond Model, the adversary is PRC sponsored APT groups. Their infrastru
 The report recommends several steps to reduce the risk of these attacks. Organizations should regularly update their routers and network devices to. They should check for unusual changes in router configurations and watch for unexpected network activity that show unauthorized access. Using strong authentication can also help prevent attackers from moving through systems. These actions can make it harder for APT actors to maintain long-term access and reduce the chance of similar threats.
 
 
-## Task 6: Reflection
+## Task 6: Reflection Questions
 
 How does the Diamond Model help in understanding threat actors?
 
